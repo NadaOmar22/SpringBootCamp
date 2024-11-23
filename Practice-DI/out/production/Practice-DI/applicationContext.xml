@@ -14,7 +14,7 @@
     <bean id="circle" class="Practice.Circle">
         <property name="draw2d" ref="draw2d"/>
     </bean>
-    
+
     <bean id="square" class="Practice.Square">
         <constructor-arg ref="draw3d" />
     </bean>
