@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66398308-ad7c-4ea9-bf59-502a65bbf505" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Bean-Scopes/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bean-Scopes/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bean-Scopes/src/Practice/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bean-Scopes/src/Practice/Draw2d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bean-Scopes/src/Practice/Draw3d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bean-Scopes/src/Practice/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bean-Scopes/src/Practice/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bean-Scopes/src/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/.idea/libraries/libs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/src/Practice/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/src/Practice/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/src/Practice/DatabaseOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/src/Practice/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/src/Practice/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/src/Practice/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/src/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles-System-1/src/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bean-Scopes.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +95,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bean-Scopes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Practice/config" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java\SpringBootCamp\Practice-DI-2\src\Practice\config" />
       <recent name="E:\java\SpringBootCamp\Practice-DI-2\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">

@@ -1,0 +1,9 @@
+Practice.config.Config=org.springframework.stereotype.Component
+Practice.controller.BikeController=org.springframework.stereotype.Component
+Practice.controller.CarController=org.springframework.stereotype.Component
+Practice.controller.PlaneController=org.springframework.stereotype.Component
+Practice.dao.DatabaseOperations=org.springframework.stereotype.Component
+Practice.model.Bike=org.springframework.stereotype.Component
+Practice.model.Car=org.springframework.stereotype.Component
+Practice.model.Plane=org.springframework.stereotype.Component
+Practice.model.Vehicle=org.springframework.stereotype.Component
