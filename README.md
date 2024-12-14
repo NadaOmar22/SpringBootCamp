@@ -57,4 +57,34 @@ We have a backend system that store some vehicles with two types (car , plane) .
 
 ********************************************************************************************************************************************************************************************************************
 
+Bean Scopes Task:
+1) Define a new implementation for the Shape interface.
+2) Define Draw2d Class and Draw3d class
+3) Add new Shapes from Shape like Circle and Square .
+4) Use a Draw2d Object and Draw3d Object inside the Circle and Square Classes
+5) Reference your new implementation in the Spring config file (applicationContext.xml).
+6) Apply the Constructor injection into Circle bean
+7) Apply the Setter injection into Square bean
+8) Make the bean scope for CircleShape bean as singleton
+9) Make the bean scope for CircleShape bean as prototype
+10) Retrieve a bean for Circle class and draw the Circle
+11) Retrieve a bean for Square class and draw the Rectangle
+
+********************************************************************************************************************************************************************************************************************
+
+Beans Lifecycle Task:
+
+1) Add a new class named DatabaseOperations
+2) Create a method named connectToDatabase of type void and print a message inside it “connection to database established ……”
+3) Create a method named disconnectFromDatabase of type void and print a message inside it “connection to database closed……”
+4) Define a init and destroy beans for the above methods.
+5) Test your application by initalize the spring container inside the Main class and close it to see the output of init and destroy methods
+
+Output:
+connection to database established ……
+
+connection to database closed……
+
+********************************************************************************************************************************************************************************************************************
+
 
