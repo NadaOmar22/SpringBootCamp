@@ -87,4 +87,30 @@ connection to database closed……
 
 ********************************************************************************************************************************************************************************************************************
 
+Vehicles System 1 Task:
+We have a company that need a system to sell a vehicles like (car , plane , motorcycle)
+Each one of them will be stored in the database so , we will have operations like saveVehicle.
+The configurations of the database like url , username and password will be saved into a properties file.
+
+Requirements:
+1) Make a class that will control the database operations and have singleton scope (as we only need one bean through the app)
+2) Read the database properties from properties file and link them to fields in the database operations class.
+3) Define your models (car , plane , Bike) classes and make the scope of them as prototype (we will need lots of beans of these vehicles)
+4) Inject the database operations bean into these models using constructor injection for car and setter injection for plane and field injection for Bike.
+5) Make all the configurations inside the app in the java config class (no XML)
+6) Make init method inside the database operations class that will connect to the database after the container created
+7) Make destroy method inside the database operations class that will close the connection from the database after the container closed
+8) Use MySQL to store your data and JDBC [saveVehicle() method ]
+9) Use System.out.print methods for debugging purposes (connection established , closed …etc)
+10) Use @Getter , @Setter , @ToString from lombok instead of normal setters and getters. See the hints
+11) Add methods save , delete , update , searchById , getAllOrdersDetails
+12) Define the below tables attached in the hints.
+
+    ![image](https://github.com/user-attachments/assets/82e6ef69-6657-4a19-af4a-914c406ff5dd)
+
+    ![image](https://github.com/user-attachments/assets/4405fc33-0f5e-4b55-8f94-b9ff2c74ad9f)
+
+
+********************************************************************************************************************************************************************************************************************
+
 
